@@ -97,8 +97,8 @@ MediScan/
 
 1. **Clone the Repository**
 ```bash
-git clone https://github.com/SanjayKumar3110/MediScan.git
-cd Mediscan/
+git clone https://github.com/Kabildoss/Medi-scan.git 
+cd Medi-scan/
 ```
 
 2. **Create a Virtual Environment**
